@@ -22,7 +22,7 @@ The starting map looks like:
   id1((Dyirabun /<br> Hawkesbury River))
   id2((Colomatta / <br> Blue Mountains))
   id3((Gayamay /<br> Manly Bay))
-  id4((Dharug /<br> Maquarie Park))
+  id4((Wallumatta /<br> Maquarie Park))
   id1 <--> id2
   id1 <--> id3
   id2 <--> id4
