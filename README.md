@@ -17,7 +17,7 @@ Basic support for internationalisation (i18n) is provided and you should extend 
 - darug.yml for Darug
 
 The starting map looks like:
-```mermaid.js
+```mermaid
  flowchart LR
   id1((Dyirabun /<br> Hawkesbury River))
   id2((Colomatta / <br> Blue Mountains))
