@@ -1,0 +1,12 @@
+# directions
+east: "buruwi"
+west: "bayinmarri"
+north: "buruwan"
+south: "balgayalang"
+# classifications
+you: "ngyini"
+# actions
+stand: "warrawi"
+this side of the river: "wurrungwuri"
+# locations
+Hawkesbury River: "dyirabun"
