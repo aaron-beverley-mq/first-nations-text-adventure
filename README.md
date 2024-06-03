@@ -1,6 +1,32 @@
 # First Nations Text-based Adventure Game
 
+## Learning Intentions
+- Understand how different languages can be representing in an application
+- Understand the process or reading others code and refactoring it into a different coding paradigm
+- Develop literature skills 
+- Build skills in testing software
+  
+## Success Criteria
+- The code is modified so that it is still functional but written using the Object-Oriented paradigm
+- Have an appreciation for the First Nation Peoples language spoken in Darug Country
+- Be able to show skills in developing internationalisation features for a software program
+- Program is extended to support the marking criteria
+
+## Syllabus
+- describes methods used to plan, develop and engineer software solutions SE-11-01
+- explains how structural elements are used to develop programming code SE-11-02
+- applies language structures to refine code SE-11-08
+- manages and documents the development of a software project SE-11-09
+- applies tools and resources to design, develop, manage and evaluate software SE-11-06
+- implements safe and secure programming solutions SE-11-07
+
+### Cross-Curriculum Priorities
+The application is to support the language of the Darug people developing and understanding of Aboriginal and Torres Strait Islander Histories and Cultures. It could also be adapted for EAD/L students in particular for the Asia and Australia’s Engagement with Asia curriculum priority by supporting other languages.
+
 ## Overview
+
+**Target group:** Stage 6, NSW<br>
+**Subject:** Software Engineering
 
 A text-based adventure game is an interactive invented world described in text. It can be filled with different spaces, items, obstacles or anything your imagination allows. The player interacts with the world by typing commands and the game describes the result of the player's commands.
 
